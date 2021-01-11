@@ -1,2 +1,2 @@
-# Food-detection
+# Food-Recognition
 Diploma-Project
